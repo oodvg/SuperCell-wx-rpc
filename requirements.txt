@@ -1,3 +1,4 @@
 psutil
 pypresence
+requests
 pygetwindow
